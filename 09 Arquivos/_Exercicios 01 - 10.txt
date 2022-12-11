@@ -1,0 +1,48 @@
+Q01.
+R:
+FILE
+
+//****
+Q02.
+R:
+Call fopen on the file
+
+//**
+Q03
+R:
+A character string containing the name of the file; the second argument is the mode
+
+//**
+Q04
+R:
+"b"
+
+//**
+Q05
+R:
+NULL
+
+//**
+Q06
+R:
+fputs()
+
+//**
+Q07
+R:
+It writes “Copying!” into the file pointed by fp
+
+//**
+Q08
+R:
+God created Hebe
+
+//**
+Q09
+R:
+hello you are reading a file demo
+
+//**
+Q10
+R:
+x = 344
