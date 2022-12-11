@@ -1,0 +1,82 @@
+Q01.
+R:
+x = 0
+*ptr = 0
+x = 5
+*ptr = 5
+x = 6
+*ptr = 6
+
+
+//****
+Q02.
+R:
+sizeof arri[] = 12 sizeof ptri = 4
+sizeof arrc[] = 3 sizeof ptrc = 4
+
+//**
+Q03
+R:
+i), ii) and iii) would compile successfully and size of each would be same i.e. 4.
+
+//**
+Q04
+R:
+4
+4
+4
+
+//**
+Q05
+R:
+Falso 
+
+//**
+Q06
+R:
+5 5 5
+
+//**
+Q07
+R:
+assigns 5 to a
+
+//**
+Q08
+R:
+25 36
+
+//**
+Q09
+R:
+90.500000 3
+
+//**
+Q10
+R:
+G
+
+//**
+Q11
+R:
+3
+
+//**
+Q12
+R:
+geeks
+
+//**
+Q13
+R:
+hello world
+
+//**
+Q14
+R:
+oworld
+
+//**
+Q15
+R:
+Falso

@@ -1,0 +1,68 @@
+Q01.
+R:
+Stack
+
+//****
+Q02.
+R:
+void
+
+//**
+Q03
+R:
+4
+
+//**
+Q04
+R:
+Error: in *ptr = (char)malloc(30);
+
+//**
+Q05
+R:
+Falso 
+
+//**
+Q06
+R:
+Verdadeiro
+
+//**
+Q07
+R:
+10.100000
+
+//**
+Q08
+R:
+free(p->s);
+free(p);
+
+//**
+Q09
+R:
+p = (int*) malloc(3*4*sizeof(int));
+
+//**
+Q10
+R:
+Verdadeiro
+
+//**
+Q11
+R:
+Memory Leak
+
+//**
+Q12
+R:
+X:
+→ lost memory is:,
+
+
+Y: 
+→ using dangling pointer,
+
+
+Z: 
+→ using uninitialized pointers
