@@ -1,50 +1,54 @@
 Q01.
 R:
-Stack
+6
 
 //****
 Q02.
 R:
-void
+int mystery(int P, int Q){
+    if (P == 0)
+        return Q;
+    else
+        return mystery(P - 1, Q + 1);
+}
 
 //**
 Q03
 R:
-4
+16
 
 //**
 Q04
 R:
-Error: in *ptr = (char)malloc(30);
+13
 
 //**
 Q05
 R:
-Falso 
+10011 
 
 //**
 Q06
 R:
-Verdadeiro
+x * y
 
 //**
 Q07
 R:
-10.100000
+1000 2000 4000 4000 2000 1000
 
 //**
 Q08
 R:
-free(p->s);
-free(p);
+It returns 1 when n is a power of 3, otherwise returns 0
 
 //**
 Q09
 R:
-p = (int*) malloc(3*4*sizeof(int));
+5
 
 //**
 Q10
 R:
-Verdadeiro
+12
 
